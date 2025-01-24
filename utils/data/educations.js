@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Master's Degree in Digital information engineering",
     duration: "2023 - 2024",
-    institution: "National University of Casablanca, Morocco",
+    institution: "Jean Jaures Toulouse II University, France",
   },
   {
     id: 2,
