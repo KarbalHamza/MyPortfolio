@@ -19,7 +19,7 @@ export const experiences = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Growth Hacker",
     company: "IWaco, Taiga",
     duration: "(January 2023 - june 2023)"
